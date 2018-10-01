@@ -1,0 +1,76 @@
+.reveal {
+	color: black;
+
+	.slides {
+
+		.title {
+			bottom: 0;
+			top: unset !important;
+			display: block;
+			box-sizing: border-box;
+			height: 20%;
+
+			h1 {
+				font-size: 1.2em;
+				color: black;
+				font-weight: normal;
+			}
+			
+			h2 {
+				font-size: 1em;
+				color: black;
+				font-weight: normal;
+			}
+		}
+
+		.admin {
+			h2 {
+				color: white;
+				display: inline-block;
+				background-color: #204a87;
+				padding: 5px 20px;
+			}
+			
+		}
+
+		&.lean {
+				color: white;
+				display: inline-block;
+				background-color: red;
+				padding: 5px 20px;
+		}
+
+
+		img {
+			border: 0;
+			box-shadow: none;
+		}
+
+		figure {
+			img {
+				width: 100%;
+			}
+		}
+
+		figcaption {
+			font-size: 0.6em;
+			font-style: italic;
+		}
+
+		.flex {
+			display: flex;
+		}
+	}
+
+	.backgrounds {
+		.slide-background {
+			background-position-x: left;
+			background-position-y: top;
+
+			&.title {
+				background-position-y: center;
+			}
+		}
+		
+	}
+}
