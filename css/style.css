@@ -1545,6 +1545,31 @@ body {
     display: inline-block;
     background-color: #204a87;
     padding: 5px 20px; }
+  .reveal .slides .agile h2,
+  .reveal .slides .agile h3 {
+    color: white;
+    background-color: #069945;
+    padding: 5px 20px; }
+  .reveal .slides .lean h2 {
+    color: white;
+    display: inline-block;
+    background-color: #bf7413;
+    padding: 5px 20px; }
+  .reveal .slides .waterfall h2 {
+    color: white;
+    display: inline-block;
+    background-color: #005760;
+    padding: 5px 20px; }
+  .reveal .slides .exercise h2 {
+    color: white;
+    display: inline-block;
+    background-color: #420063;
+    padding: 5px 20px; }
+  .reveal .slides .experiences h2 {
+    color: white;
+    display: inline-block;
+    background-color: #630003;
+    padding: 5px 20px; }
   .reveal .slides.lean {
     color: white;
     display: inline-block;

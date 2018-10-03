@@ -30,7 +30,51 @@
 				background-color: #204a87;
 				padding: 5px 20px;
 			}
-			
+		}
+
+		.agile {
+			h2,
+			h3 {
+				color: white;
+				background-color: #069945;
+				padding: 5px 20px;
+			}
+		}
+
+		.lean {
+			h2 {
+				color: white;
+				display: inline-block;
+				background-color: #bf7413;
+				padding: 5px 20px;
+			}
+		}
+
+		.waterfall {
+			h2 {
+				color: white;
+				display: inline-block;
+				background-color: #005760;
+				padding: 5px 20px;
+			}
+		}
+
+		.exercise {
+			h2 {
+				color: white;
+				display: inline-block;
+				background-color: #420063;
+				padding: 5px 20px;
+			}
+		}
+
+		.experiences {
+			h2 {
+				color: white;
+				display: inline-block;
+				background-color: #630003;
+				padding: 5px 20px;
+			}
 		}
 
 		&.lean {

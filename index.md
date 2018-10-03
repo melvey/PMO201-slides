@@ -187,3 +187,50 @@ Instead of focusing on particular functionality, each cycle starts with a proble
 
 
 
+<!-- .slide: data-background-image="images/bg.jpg" class="exercise" -->
+## The Marshmallow Challenge
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/tom_wujec_build_a_tower" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+
+<!-- .slide: data-background-image="images/bg.jpg" class="exercise" -->
+## The Marshmallow Challenge
+* In groups of 4 can you complete the marshmallow challenge
+
+
+<!-- .slide: data-background-image="images/bg.jpg" class="exercise" -->
+[Timer](https://polytimer.rocks/)
+
+
+
+<!-- .slide: data-background-image="images/bg.jpg" class="experiences" -->
+## Experiences: Digital Musrembang
+* SMS System to improve communication with local government
+* Selected SMS as internet access is limited
+* Mountainous region with limited mobile signal
+
+* Didn't understand context of use
+* Already committed to solution when problems were identified
+
+
+<!-- .slide: data-background-image="images/bg.jpg" class="experiences" -->
+## Experiences: Tracking small fishing boats
+* GPS trackers and tablets to record fishing catches
+* Spent a lot of time of time focusing on what happens at sea
+	* Waterproof, offline synchronisation, unreliable power
+* Didn't think about what happens on land
+	* Tablets broken by children and poor storage
+
+
+<!-- .slide: data-background-image="images/bg.jpg" class="experiences" -->
+## Experiences: Online Course
+* Year long project with no clear client
+* Made lots of great looking tools
+* After release a US university asked if it was accessible enouch to use in their course
+	* We had to say it was not
+
+
+<!-- .slide: data-background-image="images/bg.jpg" class="experiences" -->
+## Experience: Augmented Reality Worksheets
+* Asked to develop AR tools to visualise physics classes
+* User testing found AR was difficult to use and added no value
+* Developed interactive 3D worksheets instead
