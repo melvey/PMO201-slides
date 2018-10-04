@@ -123,6 +123,7 @@
 * One sentance statement describing user need
 * As a \_ I want to \_ so that \_
 * Always written from the user's perspective
+* As a student I want to know my grades so I can plan my study <!-- .element class="fragment" data-fragment="1" -->
 
 
 <!-- .slide: data-background-image="images/bg.jpg" class="agile" -->
@@ -163,6 +164,7 @@ Instead of focusing on particular functionality, each cycle starts with a proble
 * Start with a problem statement - not a feature
 * What are the assumptions in this problem statement?
 * Build to test those assumptions
+* We believe that adding a distance calculation will help users select which restaurants they use. They will select closer restaurants and use the application again 20% sooner <!-- .element class="fragment" data-fragment="1" -->
 
 
 <!-- .slide: data-background-image="images/bg.jpg" class="lean" -->
