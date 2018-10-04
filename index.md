@@ -229,11 +229,8 @@ Instead of focusing on particular functionality, each cycle starts with a proble
 
 <!-- .slide: data-background-image="images/bg.jpg" class="exercise" -->
 ## The Marshmallow Challenge
-* In groups of 4 can you complete the marshmallow challenge
-
-
-<!-- .slide: data-background-image="images/bg.jpg" class="exercise" -->
-[Timer](https://polytimer.rocks/)
+* In groups can you complete the marshmallow challenge
+* [Timer](https://polytimer.rocks/)
 
 
 
