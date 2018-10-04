@@ -188,6 +188,41 @@ Instead of focusing on particular functionality, each cycle starts with a proble
 
 
 <!-- .slide: data-background-image="images/bg.jpg" class="exercise" -->
+### Human Centred Design
+<div class="flex">
+	<figure style="flex-grow: 2">
+		![d.school Design Thinking Process](https://cdn-images-1.medium.com/max/1040/1*VmGEltnPDMNMHhQ7OdXWgw.png)
+		<figcaption>Stanford d.school Design Thinking process, img source: http://dschool.stanford.edu/wp-content/uploads/2012/02/steps-730x345.png</figcaption>
+	</figure>
+
+<ul style="flex-grow: 1">
+	<li>Start with a problem</li>
+	<li>Spend time with and understand audience before planning solutions</li>
+	<li>Iterate through all stages</li>
+	<li>Involve users at all stages</li>
+</ul>
+</div>
+
+
+<!-- .slide: data-background-image="images/bg.jpg" class="exercise" -->
+### Human Centred Design
+<div class="flex">
+	<figure style="flex-grow: 2">
+		![IDEO HCD Process](https://cdn.evbuc.com/eventlogos/160332149/designthinkingphases.png)
+		<figcaption>IDEO HCD process, img source: https://cdn.evbuc.com/eventlogos/160332149/designthinkingphases.png</figcaption>
+	</figure>
+
+<ul style="flex-grow: 1">
+	<li>Three (sometimes five) distinct phases</li>
+	<li>First understand the audience</li>
+	<li>Share experiences and brainstorm ideas</li>
+	<li>Prototype and develop ideas</li>
+</ul>
+</div>
+
+
+
+<!-- .slide: data-background-image="images/bg.jpg" class="exercise" -->
 ## The Marshmallow Challenge
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/tom_wujec_build_a_tower" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
@@ -223,7 +258,7 @@ Instead of focusing on particular functionality, each cycle starts with a proble
 
 <!-- .slide: data-background-image="images/bg.jpg" class="experiences" -->
 ## Experiences: Online Course
-* Year long project with no clear client
+* Year long project with no clear target audience
 * Made lots of great looking tools
 * After release a US university asked if it was accessible enouch to use in their course
 	* We had to say it was not
